@@ -2,7 +2,7 @@ var path = require('path')
 module.exports = {
 
   bot: {
-    key: 'YOUR_TELEGRAM_BOT_TOKEN',
+    key: '942808332:AAFZYCGuaa2LuXejp5KiqkYzbcHPkflU260',
     polling: true
   },
 
